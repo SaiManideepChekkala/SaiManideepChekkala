@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a passionate **Jr Engineer** with **1 year of hands-on experience** in embedded systems and firmware development. I specialize in microcontroller programming, real-time operating systems, and hardware-software integration. With expertise in ARM architecture and various communication protocols, I'm dedicated to building efficient, scalable, and reliable embedded solutions that bridge the gap between hardware and software.
+I'm a passionate **Jr Engineer** with **1 year of hands-on experience** in embedded systems. I specialize in microcontroller programming, real-time operating systems, and hardware-software integration. With expertise in ARM architecture and various communication protocols, I'm dedicated to building efficient, scalable, and reliable embedded solutions that bridge the gap between hardware and software.
 
 🎯 **Mission:** To create innovative embedded systems that solve real-world problems with optimal performance and reliability.
 
