@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a passionate **Jr Engineer** with **1+ year of hands-on experience** in embedded systems and firmware development. I specialize in microcontroller programming, real-time operating systems, and hardware-software integration. With expertise in ARM architecture and various communication protocols, I'm dedicated to building efficient, scalable, and reliable embedded solutions that bridge the gap between hardware and software.
+I'm a passionate **Jr Engineer** with **1 year of hands-on experience** in embedded systems and firmware development. I specialize in microcontroller programming, real-time operating systems, and hardware-software integration. With expertise in ARM architecture and various communication protocols, I'm dedicated to building efficient, scalable, and reliable embedded solutions that bridge the gap between hardware and software.
 
 🎯 **Mission:** To create innovative embedded systems that solve real-world problems with optimal performance and reliability.
 
@@ -51,9 +51,6 @@ I'm a passionate **Jr Engineer** with **1+ year of hands-on experience** in embe
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SaiManideepChekkala)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saimanideepcs)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimanideepcs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-manideep-chekkala-4266121b0/)
 
 </div>
@@ -95,11 +92,11 @@ I'm a passionate **Jr Engineer** with **1+ year of hands-on experience** in embe
 
 ---
 
-## 📈 Experience & Expertise
+## 📈 Professional Experience
 
 | Area | Details |
 |------|---------|
-| **Experience** | 1+ Year in Embedded Systems |
+| **Experience** | 1 Year as Jr Engineer |
 | **Languages** | C, C++ |
 | **Architectures** | ARM Cortex-M, LPC2129 |
 | **Protocols** | I2C, SPI, CAN, UART |
@@ -114,7 +111,7 @@ I'm a passionate **Jr Engineer** with **1+ year of hands-on experience** in embe
 
 I'm always open to collaborations, learning opportunities, and discussing embedded systems challenges. Feel free to reach out!
 
-**[LinkedIn](https://www.linkedin.com/in/sai-manideep-chekkala-4266121b0/)** • **[YouTube](https://www.youtube.com/@SaiManideepChekkala)** • **[Medium](https://medium.com/@saimanideepcs)** • **[Instagram](https://www.instagram.com/saimanideepcs/)**
+**[LinkedIn](https://www.linkedin.com/in/sai-manideep-chekkala-4266121b0/)**
 
 ### 🚀 Building Tomorrow's Embedded Solutions Today!
 
